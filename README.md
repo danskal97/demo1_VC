@@ -1,7 +1,7 @@
 # demo1_VC
 Hello world!
 
-I just want to add a bit more information and commit those changes to the github repository. 
+I just want to add a bit more information and commit those changes to the github repository. Local.
 
 Changes from Rstudiomade
 
